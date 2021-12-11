@@ -1,4 +1,4 @@
-# abertura-primeiro-repositorio 🚪
+# repositorio para o desafio 🚪
 ## Marco de abertura do primeiro repositório
 ### Poema
 #### As sem-razões do amor
