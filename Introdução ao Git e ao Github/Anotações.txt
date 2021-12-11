@@ -1,0 +1,5 @@
+Comandos do git bash( terminal para usar o git) 
+
+git clone = trás o repositório do github para a nossa máquina
+
+git config = 
