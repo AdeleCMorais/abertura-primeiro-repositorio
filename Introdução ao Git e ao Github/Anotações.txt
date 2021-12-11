@@ -1,5 +1,16 @@
 Comandos do git bash( terminal para usar o git) 
 
-git clone = trás o repositório do github para a nossa máquina
+git clone = trás o repositório do github para a nossa máquina. 
+Depois que você criar um repositório no github, pegar o código HTML e clonar pelo seu repositório na sua máquina.
 
-git config = 
+Ex.: com git clone https://github.com/AdeleCMorais/abertura-primeiro-repositorio.git
+
+
+git status = para verificar como está o arquivo que você criou na sua máquina pelo terminal git bush: untracked( em vermelho) ou para comitar ( em verde).
+
+git add . ou -a = Quando você criar uma pasta e depois do git status for identificado ( ficar vermelho), "para ficar verdinho" para que o git entenda que você quer enviar este arquivo que você criou na sua máquina para o github.
+
+git commit -m "adicione o comentário" = Para adicionar as informações que voçê está fazendo e "commitar".
+
+
+git push origin main = para empurrar par o repositório no github
